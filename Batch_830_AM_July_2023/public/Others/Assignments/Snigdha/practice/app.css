@@ -1,0 +1,43 @@
+#head{
+    /* border: 1px solid; */
+    margin:1px;
+    padding: 5px;
+    height: 100px;
+    background-color: #ccc;
+
+}
+#icons{
+    height: 50px;
+    width: 50px;
+}
+#head div{
+    display: inline;
+    margin: 10px;
+}
+#head div:hover{
+    color: red;
+    cursor: pointer;
+}
+#body{
+    /* border: 1px solid; */
+    margin: 1px;
+    padding: 5px ;
+    height: 500px;
+    background-color: #ccc;
+    background-image: url("https://img.freepik.com/free-photo/colleagues-working-project-discussing-details_114579-2817.jpg?w=1060&t=st=1695924210~exp=1695924810~hmac=79d4deb7df3e5712ec6c6e4778d963c7eb457bf8da83a6b476eb686b3fc1e06e");
+
+}
+#body div{
+    padding :15  px;
+}
+#footer{
+    /* border: 1px solid; */
+    margin: 1px;
+    padding: 5px;
+    height: 100px;
+    background-color: #ccc;
+
+}
+.container{
+    list-style: none;
+}
